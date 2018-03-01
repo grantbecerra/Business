@@ -236,6 +236,31 @@ footer {
 	font-size: 0.9em;
 }
 }
+/* div */
+.HomeText{
+	margin-left: auto;
+	margin-right: auto;
+	padding-right: 50px ;
+	padding-left:  50px;
+}
+
+.BreifCaseText{
+	margin-left: auto;
+	margin-right: auto;
+	padding-right: 200px ;
+	padding-left: 200px;
+}
+/* images */
+.BriefCase1{
+	margin-left: auto;
+	margin-right: auto;
+	padding-left:  0px;
+}
+.BriefCase2{
+	margin-left: auto;
+	margin-right: auto;
+	padding-right: 0px;
+}
 
 
 
